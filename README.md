@@ -14,9 +14,3 @@ This project explores the use of multiplicity in commutative algebra to map bina
 - `src/`: Source code for the core algorithms.
 - `examples/`: Scripts demonstrating the usage of the algorithms.
 - `tests/`: Unit tests for validating the implementations.
-
-## Getting Started
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/multiplicity-qubits.git
