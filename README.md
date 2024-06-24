@@ -1,6 +1,6 @@
 # Hybrid Computational Ecosystem
 
-Welcome to the Hybrid Computational Ecosystem project! This repository is dedicated to developing a hybrid framework that bridges classical and quantum computing paradigms to create a powerful, scalable, and efficient computational platform.
+Welcome to Multiplicity - The Hybrid Computational Ecosystem project! This repository is dedicated to developing a hybrid framework that bridges classical and quantum computing paradigms to create a powerful, scalable, and efficient computational platform.
 
 ## Overview
 
