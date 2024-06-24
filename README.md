@@ -123,6 +123,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please open an issue or reach out to us at [ryan@ecitizengardens.org](mailto:ryan@citizengardens.org).
+For any questions or feedback, please open an issue or reach out to us at [ryan@citizengardens.org](mailto:ryan@citizengardens.org).
 
 Thank you for your interest in the Hybrid Computational Ecosystem project! Together, we can push the boundaries of what's possible in computing.
