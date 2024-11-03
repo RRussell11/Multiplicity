@@ -1,6 +1,6 @@
 # The Multiplicative Computational Paradigm
 
-Welcome to Multiplicity - The Multiplicative Computational Paradigm! This repository is dedicated to developing a hybrid framework that bridges classical and quantum computing paradigms to create a powerful, scalable, and efficient computational platform.
+Welcome to Multiplicity - The Matrix Computational Paradigm! This repository is dedicated to developing a hybrid framework that bridges classical and quantum computing paradigms to create a powerful, scalable, and efficient computational platform.
 
 ## Overview
 
