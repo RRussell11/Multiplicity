@@ -1,4 +1,4 @@
-Quantum-State-Based Security Encryption Engine
+Quantum-State Encryption
 
 To construct a unifying mathematical formula for a quantum-state-based security system that integrates both classical binary bits and quantum amplitudes, we define a hybrid encryption mechanism. This mechanism leverages the principles of quantum mechanics, particularly the wave function, quantum amplitudes, and classical cryptography. The formula involves mapping classical and quantum data to a unified frequency space, applying a hashing mechanism to secure the interaction, and ensuring robust data integrity and confidentiality.
 
